@@ -1,0 +1,1 @@
+This repository was created as part of the technical assessment assigned by Olive IoT. The required task has been successfully completed and the corresponding source code and documentation are included in this repository.
